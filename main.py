@@ -248,4 +248,4 @@ async def main():
 
 if __name__ == "__main__":
     asyncio.run(main())
-    bot.infinity_polling()
+    bot.infinity_polling(9194658183:AAESw5OWk_2GH8iPTQixy7kgvsIRXtqSUp4)
