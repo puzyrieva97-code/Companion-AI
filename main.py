@@ -13,8 +13,8 @@ from openai import AsyncOpenAI
 
 # ================ НАСТРОЙКИ ================
 
-TELEGRAM_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN")
-OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
+TELEGRAM_TOKEN = os.getenv(9194658183:AAESw5OWk_2GH8iPTQixy7kgvsIRXtqSUp4)
+OPENAI_API_KEY = os.getenv(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)
 MODEL = os.getenv("OPENAI_MODEL", "gpt-4.1-mini")
 
 DB_PATH = os.getenv("DB_PATH", "companion.sqlite3")
